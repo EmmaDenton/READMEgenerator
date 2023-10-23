@@ -3,16 +3,13 @@
 
   ## Table of Contents
   [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [Questions](#questions)
   [License](#license)
   
   ## Description
 
   This project is a README file generator. When the project is initiated in the console it will as the user a series of questions. It will then use the answers to populate a README file.
+
+https://github.com/EmmaDenton/READMEgenerator/assets/141465015/7f27d54f-22a0-4d86-9c92-40620a6ba228
 
 ### Acceptance Criteria  
 GIVEN a command-line application that accepts user input
