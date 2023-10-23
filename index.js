@@ -64,7 +64,7 @@ const generateReadme = ({
   license,
 }) => {
   return `
-  ${projectTitle}
+  # ${projectTitle}
 
   ## Table of Contents
   [Description](#description)
@@ -91,10 +91,10 @@ const generateReadme = ({
   ${tests}
   
   ## Questions
-  Any questions? Ask me ${github} or ${email}
+  Any questions? Ask ${github} or email me at ${email}
   
   ## License
-  https://img.shields.io/badge/license-${license}-blue.svg
+  ![](https://img.shields.io/badge/license-${license}-blue.svg)
   `;
 };
 
